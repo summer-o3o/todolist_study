@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "todolist_study",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,8 +10,11 @@
     "@types/node": "^16.18.83",
     "@types/react": "^18.2.58",
     "@types/react-dom": "^18.2.19",
+    "eslit-rule-dddeok": "^0.0.1",
+    "prettier": "^3.2.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
